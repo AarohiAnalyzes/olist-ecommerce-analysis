@@ -6,7 +6,7 @@
 - Created handwritten schema notes
 - Defined 3 business questions
 
-## Phase 2: Data Preparation (Next)
+## Phase 2: Data Preparation (On Going)
 - Build master dataset by joining tables
 - Clean and validate data
 - Create calculated metrics
@@ -19,4 +19,5 @@
 ## Phase 4: Visualization & Reporting
 - Build Tableau dashboard
 - Write final report
+
 - Deploy interactive dashboard
