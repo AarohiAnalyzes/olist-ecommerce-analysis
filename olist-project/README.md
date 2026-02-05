@@ -19,9 +19,17 @@ Comprehensive analysis of Brazilian e-commerce data covering sales, customer, an
 - Schema analyzed and relationships mapped
 - Business questions defined
 
+**Phase 2: Data Preparation** 🚧 In Progress
+- Initial exploration started
+- Completed: Order structure analysis
+- Found: 1.13 items per order average, 99.22% order success rate
+- Next: Complete date analysis, order status, missing values, price distribution
+
 ## 🔗 Data Source
 Dataset: Brazilian E-Commerce Public Dataset by Olist
 Available on Kaggle
 
 ---
+
 *Project started: [02/02/2026]*
+*Last updated: [05/02/2026] - in progress*
