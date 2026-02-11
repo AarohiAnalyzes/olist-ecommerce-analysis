@@ -46,7 +46,6 @@
 
 - ✅ **Key Metrics:**
   - **Total revenue:** R$ 13,181,027.13
-  - **Average Order Value (AOV):** R$ [add after calculation]
   - **Best month:** November 2017 – R$ 987,765.37
   - **Worst full month:** January 2017 – R$ 111,798.36
 
@@ -78,3 +77,4 @@
 ---
 
 *Last updated: [11/02/2026] – Phase 3 complete, Phase 4 started*
+
