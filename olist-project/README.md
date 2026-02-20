@@ -17,7 +17,6 @@ Comprehensive analysis of Brazilian e-commerce data covering sales, customer, an
 ## 📈 Current Status
 **Phase 1: Data Understanding** ✅ Complete  
 **Phase 2: Initial Exploration** ✅ Complete
-
 **Phase 3: Sales Performance Analysis** ✅ Complete  
 
 **Next Phase:** Customer Geographic Analysis 🚀
@@ -30,6 +29,7 @@ Available on Kaggle
 
 *Project started: [02/02/2026]*
 *Last updated: [05/02/2026] - in progress*
+
 
 
 
