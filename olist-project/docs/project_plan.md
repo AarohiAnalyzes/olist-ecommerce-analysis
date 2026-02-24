@@ -225,5 +225,6 @@ Olist E-commerce Public Dataset (Kaggle)
 
 ## 👤 Author
 
-Aarohi Mistry
-Data Analysis & E-commerce Insights Project
+- Aarohi Mistry
+- Data Analysis & E-commerce Insights Project
+
