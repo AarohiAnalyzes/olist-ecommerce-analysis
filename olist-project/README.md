@@ -1,4 +1,4 @@
-# 🇧🇷 Olist Brazilian E-commerce Analysis
+# Olist Brazilian E-commerce Analysis
 
 ## 📊 Project Overview
 Comprehensive exploratory and business analysis of the Brazilian e-commerce marketplace dataset.  
@@ -75,3 +75,4 @@ Planned deliverables:
 
 *Project started: 02/02/2026*  
 *Last updated: 24/02/2026*
+
