@@ -44,7 +44,7 @@ The project focuses on uncovering insights related to **sales performance**, **c
 
 Planned deliverables:
 
-- Interactive Tableau Dashboard  
+- Interactive PowerBI Dashboard  
 - Final Business Insights Report  
 - Portfolio Deployment  
 
@@ -75,4 +75,5 @@ Planned deliverables:
 
 *Project started: 02/02/2026*  
 *Last updated: 24/02/2026*
+
 
