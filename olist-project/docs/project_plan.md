@@ -186,7 +186,7 @@ Customer experience is driven by factors other than price.
 
 Planned deliverables:
 
-- Interactive Tableau Dashboard  
+- Interactive PowerBI Dashboard  
   1. Sales Performance Trends  
   2. Geographic Distribution  
   3. Category Analysis  
@@ -203,7 +203,7 @@ Planned deliverables:
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Tableau *(Planned)*  
+- PowerBI *(Planned)*  
 
 ---
 
@@ -227,4 +227,5 @@ Olist E-commerce Public Dataset (Kaggle)
 
 - Aarohi Mistry
 - Data Analysis & E-commerce Insights Project
+
 
